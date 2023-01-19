@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Button Component}</h1>
+<h1 align="center">Ameley's Button Component Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://button-component-dev-challenge.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/NkRdTzO78MgsZOJv0L3Q">
       Solution
     </a>
     <span> | </span>
@@ -41,9 +41,13 @@
 
 
 - Where can I see your demo?
+   <a href="https://button-component-dev-challenge.netlify.app/">
+      Demo
+    </a>
 - What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+
+I enjoyed this project it was quite simple to do but I enjoyed doing the different styling.
+
 
 ### Built With
 
